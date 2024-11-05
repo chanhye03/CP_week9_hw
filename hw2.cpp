@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <string.h>
+
 struct date {
   int month;
 	int day;
